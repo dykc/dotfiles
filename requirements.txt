@@ -2,7 +2,7 @@ absl-py==0.8.1
 alembic==1.2.1
 algoliasearch==2.1.0
 aniso8601==7.0.0
-apache-airflow==1.10.6
+apache-airflow==1.10.15
 apispec==3.0.0
 appdirs==1.4.3
 appnope==0.1.0
